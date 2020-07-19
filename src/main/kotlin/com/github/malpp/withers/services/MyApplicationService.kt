@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.malpp.withers.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.malpp.withers.MyBundle
 
 class MyApplicationService {
 
